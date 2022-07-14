@@ -1,0 +1,2 @@
+# PureDataFrequencyModulation
+Please watch video to see demo! This project demonstrates the concept of frequency modyulation implemented in Pure Data. A saw wave is generated that changes pitch randomly every 50ms. This signal is then modulated by a variety of local audio files. Additionally there is a pitch shifter delay added to the end of the signal chain to add some more interesting qualities to the sound. The resulting audio can then be written to a new audio file.
